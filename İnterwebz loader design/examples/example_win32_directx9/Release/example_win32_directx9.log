@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(75,41): warning C4100: 'v': unreferenced formal parameter
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(122,19): warning C4189: 'g': local variable is initialized but not referenced
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(174,196): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(175,218): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(179,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(185,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(217,200): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(218,223): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(220,222): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(251,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(395,79): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(437,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(450,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(316,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(317,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\main.cpp(381,26): warning C4189: 'window': local variable is initialized but not referenced
+  Generating code
+  0 of 1165 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example_win32_directx9.vcxproj -> C:\Users\Vavy\Downloads\Interwebz_loader_design\İnterwebz loader design\examples\example_win32_directx9\Release\Interwebz design.exe
